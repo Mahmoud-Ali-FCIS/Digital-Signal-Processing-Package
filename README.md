@@ -10,3 +10,5 @@ This system aim to cover most of part in Signal Processing using Simple GUI to a
 8. Filters and Sampling.
 
 And organized as shown in the digram below of DSP System :
+
+![DSP Digram](https://github.com/Mahmoud-Ali-FCIS/Digital-Signal-Processing-Package/blob/master/digram.png)
