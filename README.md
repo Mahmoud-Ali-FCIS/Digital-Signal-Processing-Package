@@ -1,0 +1,2 @@
+# Digital-Signal-Processing-Package
+This system aim to cover most of part in Signal Processing using Simple GUI to allow to any user to practice and understand the signals and this system divided to several part : 1. 2. 3. 4. 5. 6. 7. 8. Main Window. Signals. Quantization and Encoding. Discrete Fourier Transform (DFT) and (Inverse DFT). Fast Fourier Transform (FFT). Operation On Signals. Convolution and Correlation. Filters and Sampling.
